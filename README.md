@@ -6,9 +6,7 @@
 
 ## 🌐 Live URL
 ```
-https://d27k7s0oh0rx7g.cloudfront.net/
-```
-
+https://d27k7s0oh0rx7g.cloudfront.net/```
 ---
 
 ## 📁 Project Structure
@@ -40,8 +38,7 @@ git commit -m "Initial portfolio commit"
 git remote add origin https://github.com/KavishBorse/KavishBorse_Portfolio.git
 git push -u origin main
 ```
-GitHub repo: `https://github.com/KavishBorse/KavishBorse_Portfolio
-`
+GitHub repo: `https://github.com/KavishBorse/KavishBorse_Portfolio`
 
 ---
 
